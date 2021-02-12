@@ -4614,11 +4614,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nahuel\\source\\repos\\LearningSelenium\\LearningSelenium\\LearningSelenium.csproj",
+      "projectUniqueName": "C:\\Users\\Nahuel\\Documents\\Selenium\\SeleniumProject\\LearningSelenium\\LearningSelenium.csproj",
       "projectName": "LearningSelenium",
-      "projectPath": "C:\\Users\\Nahuel\\source\\repos\\LearningSelenium\\LearningSelenium\\LearningSelenium.csproj",
+      "projectPath": "C:\\Users\\Nahuel\\Documents\\Selenium\\SeleniumProject\\LearningSelenium\\LearningSelenium.csproj",
       "packagesPath": "C:\\Users\\Nahuel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nahuel\\source\\repos\\LearningSelenium\\LearningSelenium\\obj\\",
+      "outputPath": "C:\\Users\\Nahuel\\Documents\\Selenium\\SeleniumProject\\LearningSelenium\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Nahuel\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -24,6 +24,7 @@ namespace LearningSelenium
         [Test]
         public void Test1()
         {
+            driver.Navigate().GoToUrl("https://demo.aspnetawesome.com/");
             Assert.Pass();
         }
     }
